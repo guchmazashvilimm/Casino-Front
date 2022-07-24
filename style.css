@@ -1,0 +1,120 @@
+body{
+    background-color: #444444 !important;
+}
+.nav1{
+    background-color: #141E27;
+    
+}
+.navbar1{
+    padding-left:40px;
+    padding-right:40px;
+    color:white !important;
+}
+.navbar1 a{
+    color:white !important;
+
+}
+.login-btn{
+    color:white !important;
+    text-decoration: none !important;
+}
+.join{
+    background-color: yellow;
+    color:black;
+    text-decoration: none !important;
+    
+}
+.nav-item:hover{
+    border-bottom: white solid;
+}
+main{
+    width:60%;
+    margin-left:20%;
+    margin-right: 20%;
+    margin-top:20px;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.navbar2{
+    background-color: #585656 !important;
+    margin-top: 20px;
+    color:white;
+
+}
+.navbar2 a{
+    color:white !important;
+}
+
+.games-div{
+
+    background-color: #585656;
+   
+    
+}
+.games-div a{
+    color:rgb(156, 149, 149);
+}
+.games-div svg{
+  fill: #918c8c !important;
+  
+}
+.games-div svg :hover{
+    fill:yellow;
+}
+.games-div a:hover{
+    color:yellow;
+}
+.section{
+    margin-top: 20px;
+    background-color: #585656;
+    width:95.5%;
+   
+}
+.card{
+    background-color: transparent !important;
+    border:none;
+    line-height: 1px;
+    font-weight: 100;
+}
+.card a{
+    color:white !important;
+    text-decoration: none;
+    font-size: smaller;
+    font-weight: lighter;
+}
+.card h6{
+    font-size: small !important;
+}
+.card img{
+    width:120px !important;
+}
+.games-section{
+    width:99%;
+    margin-right:3px;
+    margin-top:20px;
+
+}
+.row2{
+    width:99%;
+    margin-left:1px;
+    margin-top:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
